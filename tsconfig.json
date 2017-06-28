@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "strictNullChecks": true,
+    "downlevelIteration": true,
+    "target": "es2017",
+    "lib": [
+      "es2017",
+      "dom"
+    ]
+  },
+  "include": [
+      "./src/**/*"
+  ]
+}
